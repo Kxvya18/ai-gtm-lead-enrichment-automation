@@ -1,0 +1,5 @@
+company,domain,industry,employee_count,country,pain_point,persona
+Acme Fintech,acmefin.example,fintech,320,India,manual payment reconciliation,Head of Revenue
+Northstar Clinics,northstar.example,healthcare,180,India,slow patient onboarding,Operations Lead
+Vertex SaaS,vertex.example,saas,640,United States,low outbound reply rates,Growth Manager
+Urban Logistics,urbanlog.example,logistics,420,India,shipment exception tracking,VP Operations
